@@ -9,7 +9,7 @@ body {
     font-size: large;
 }
 img{
-    width: 100%;
+   
 }
 section{
 
@@ -31,7 +31,7 @@ nav ul {
     margin-right: auto;
 }
 .conceptartimages{
-    width: 100px;
+    width: 200px;
     height: 100px;
     display: inline-flex;
     margin-left: auto;
