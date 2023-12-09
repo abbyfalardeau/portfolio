@@ -9,7 +9,7 @@ body {
     font-size: large;
 }
 img{
-    width: = 100%;
+    width: 100%;
 }
 section{
 
@@ -24,6 +24,13 @@ nav ul {
     justify-content: space-around;
 }
 .abbyimages{
+    width: 100px;
+    height: 100px;
+    display: inline-flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+.conceptartimages{
     width: 100px;
     height: 100px;
     display: inline-flex;
