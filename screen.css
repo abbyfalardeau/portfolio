@@ -30,6 +30,14 @@ nav ul {
     margin-left: 100px;
     margin-right: 100px;
 }
+.abbyimage2{
+    width: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    display: inline-flex;
+}
 .conceptartimages{
     width: 150px;
     height: 100px;
